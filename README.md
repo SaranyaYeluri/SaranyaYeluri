@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SaranyaYeluri
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning git hub
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning full stack
 
 <!---
 SaranyaYeluri/SaranyaYeluri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
